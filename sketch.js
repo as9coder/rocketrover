@@ -644,7 +644,7 @@ function reachedMoon(){
     player.visible=false;
     isDestroyed= true;
   
-    orbiter.display();
+   // orbiter.display();
      //rope.show();
      rect(rover.position.x, rover.position.y,20,20);
     
